@@ -7,7 +7,7 @@ This python package bundles utilities from the following two publications:
 
 notebook GPO_Universe.ipynb:
 ---------------------------
-The notebook GPUniverse.ipynb is implementing the calculations presented in Friedrich, Singh, Doré (2022) that model quantum fields in finite dimensional Hilbert spaces with Generalised Pauli Operators (GPOs).
+The notebook GPO_Universe.ipynb is implementing the calculations presented in Friedrich, Singh, Doré (2022) that model quantum fields in finite dimensional Hilbert spaces with Generalised Pauli Operators (GPOs).
 
 
 simulate_overlapping_qubits.py:
