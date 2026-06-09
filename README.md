@@ -24,3 +24,6 @@ Notebook that reproduces key figures from Friedrich, Cao, Carroll, Cheng, Singh 
 Hint_vs_Hq.ipynb:
 ----------------------------------
 Notebook that reproduces computations from section 3 of Cao, Friedrich, Girard, Loizeau, Singh (2026).
+
+--> For the code with which we find minimum-interaction qubits starting from an input spectrum, see the following repo: https://github.com/nicolasloizeau/quantum_mereology
+--> And example notebook for our complete iterative algorithm should appear in that repo within a few days of the paper's arxiv release
