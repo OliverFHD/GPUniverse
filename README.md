@@ -3,6 +3,7 @@
 This python package bundles utilities from the following two publications:
 - Friedrich, Singh, Doré (2022)
 - Friedrich, Cao, Carroll, Cheng, Singh (2024)
+- Cao, Friedrich, Girard, Loizeau, Singh (2026)
 
 
 notebook GPO_Universe.ipynb:
@@ -20,3 +21,6 @@ holographic_Weyl_field_plots.ipynb:
 ----------------------------------
 Notebook that reproduces key figures from Friedrich, Cao, Carroll, Cheng, Singh (2024). Some of these figures use data that is provided in the sub-directory "./overlapping_qubits_data/".
 
+Hint_vs_Hq.ipynb:
+----------------------------------
+Notebook that reproduces computations from section 3 of Cao, Friedrich, Girard, Loizeau, Singh (2026).
